@@ -1,0 +1,5 @@
+streamlit
+fbprophet
+pandas
+pandas_datareader
+Pillow
